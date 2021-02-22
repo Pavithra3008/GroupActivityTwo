@@ -234,49 +234,49 @@ formatter.match({
   "location": "TerrainAct.open_guru99()"
 });
 formatter.result({
-  "duration": 4115855900,
+  "duration": 5005537200,
   "status": "passed"
 });
 formatter.match({
   "location": "TerrainAct.enter_data_Reg(DataTable)"
 });
 formatter.result({
-  "duration": 11861651100,
+  "duration": 9299324900,
   "status": "passed"
 });
 formatter.match({
   "location": "TerrainAct.success_Reg()"
 });
 formatter.result({
-  "duration": 1070642900,
+  "duration": 930207800,
   "status": "passed"
 });
 formatter.match({
   "location": "TerrainAct.enter_data(DataTable)"
 });
 formatter.result({
-  "duration": 5632998500,
+  "duration": 5252699200,
   "status": "passed"
 });
 formatter.match({
   "location": "TerrainAct.success_login()"
 });
 formatter.result({
-  "duration": 914524900,
+  "duration": 835164200,
   "status": "passed"
 });
 formatter.match({
   "location": "TerrainAct.enter_Data(DataTable)"
 });
 formatter.result({
-  "duration": 19822089600,
+  "duration": 20598926800,
   "status": "passed"
 });
 formatter.match({
   "location": "TerrainAct.payment_Successful()"
 });
 formatter.result({
-  "duration": 439214300,
+  "duration": 447525200,
   "status": "passed"
 });
 });
